@@ -1,0 +1,17 @@
+{
+
+"name": "Postman_Jenkins",
+"version": "Project for starting Postman tests",
+"directories": {
+"test": "tests"
+},
+"scripts": {
+"api-tests-production": "newman run tests/jsonplaceholder.com.Postman_Jenkins.postman_collection.json"
+
+},
+"author": "Domenti Andrei",
+"dependencies": {
+"newman": "^3.5.2"
+}
+
+}
