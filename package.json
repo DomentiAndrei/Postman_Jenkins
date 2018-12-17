@@ -1,7 +1,9 @@
 {
 
 "name": "postman_jenkins",
-"version": "Project for starting Postman tests",
+  
+"version": "1.0.0",
+"description":"Project for starting Postman tests",
 "directories": {
 "test": "tests"
 },
