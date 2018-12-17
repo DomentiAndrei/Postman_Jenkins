@@ -1,6 +1,6 @@
 {
 
-"name": "Postman_Jenkins",
+"name": "postman_jenkins",
 "version": "Project for starting Postman tests",
 "directories": {
 "test": "tests"
@@ -9,7 +9,7 @@
 "api-tests-production": "newman run postman_collection.json"
 
 },
-"author": "Domenti Andrei",
+"author": "admin",
 "dependencies": {
 "newman": "^3.5.2"
 }
