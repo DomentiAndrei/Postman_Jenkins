@@ -6,7 +6,7 @@
 "test": "tests"
 },
 "scripts": {
-"api-tests-production": "newman run tests/jsonplaceholder.com.Postman_Jenkins.postman_collection.json"
+"api-tests-production": "newman run postman_collection.json"
 
 },
 "author": "Domenti Andrei",
