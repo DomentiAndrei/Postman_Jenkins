@@ -8,7 +8,7 @@
 "test": "tests"
 },
 "scripts": {
-"api-tests-production": "newman run postman_collection.json"
+"api-tests-production": "npm run postman_collection.json"
 
 },
 "author": "admin",
